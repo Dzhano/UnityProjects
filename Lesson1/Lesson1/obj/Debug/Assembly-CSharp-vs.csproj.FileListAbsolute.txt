@@ -1,0 +1,2 @@
+D:\Джано\SoftUni\C#\source\UnityProjects\Lesson1\Lesson1\obj\Debug\Assembly-CSharp-vs.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\UnityProjects\Lesson1\Lesson1\obj\Debug\Assembly-CSharp-vs.csproj.CoreCompileInputs.cache
